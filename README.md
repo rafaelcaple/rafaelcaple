@@ -1,16 +1,17 @@
-## Hi there 👋
+## Skills & Technologies
 
-<!--
-**rafaelcaple/rafaelcaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **[Game Backlog](https://github.com/rafaelcaple/game-backlog-backend)** ###     
+REST API for managing a personal game backlog, integrated with the RAWG Video Games Database API, built with Spring Boot.
+
+### **[School Acess Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)** ###      
+School Access control system applied in a **real-world context** (2022–2023), built with VBA.
+
+### **[E-commerce Web Application](https://github.com/rafaelcaple/e-commerce-hextech)** ###
+E-commerce website developed as my Capstone Project (2022), built with JavaScript, PHP and MySQL.
