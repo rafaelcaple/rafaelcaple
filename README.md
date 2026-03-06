@@ -1,15 +1,32 @@
-## Skills & Technologies
+# Hello 👋 there,
+
+<br>
+
+I'm Rafael Caple, a Backend Java Developer focused on Spring Boot and REST APIs,
+currently pursuing a Software Engineering degree 🎓. 
+
+Looking for my **first professional opportunity** as a developer
+
+### 💻 **Recent Project**
+
+**[Game Backlog](https://game-backlog-topaz.vercel.app/)** - A platform to help you track your game library.
+- 🔧 Backend: Spring Boot, Spring Security, JWT, PostgreSQL, WebClient (Spring WebFlux)
+- 🎨 Frontend: React
+
+### 🎯 **Featured Experience**
+
+**[Access Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)** - A system to manage students entrance and cafeteria access.
+- 🔧 Built with: VBA
+- 🏫 Used daily by the administrative staff at CIE Miécimo da Silva for over a year
+
+## Skills & Technologies 🛠️
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Projects
+## Connect with me 😄
 
-### **[Game Backlog](https://github.com/rafaelcaple/game-backlog-backend)** ###     
-REST API for managing a personal game backlog, integrated with the RAWG Video Games Database API, built with Spring Boot.
-
-### **[School Acess Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)** ###      
-School Access control system applied in a **real-world context** (2022–2023), built with VBA.
-
-### **[E-commerce Web Application](https://github.com/rafaelcaple/e-commerce-hextech)** ###
-E-commerce website developed as my Capstone Project (2022), built with JavaScript, PHP and MySQL.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelcaple)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcaple@gmail.com)
