@@ -16,8 +16,8 @@ Looking for my **first professional opportunity** as a developer
 ### 🎯 **Featured Experience**
 
 **[Access Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)** - A system to manage students entrance and cafeteria access.
+- 🏫 Used by the administrative staff of CIE Miécimo da Silva, developed in a team of 4 where I was responsible for all programming
 - 🔧 Built with: VBA
-- 🏫 Used daily by the administrative staff at CIE Miécimo da Silva for over a year
 
 ## Skills & Technologies 🛠️
 
