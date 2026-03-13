@@ -3,9 +3,7 @@
 <br>
 
 I'm Rafael Caple, a Backend Java Developer focused on Spring Boot and REST APIs,
-currently pursuing a Software Engineering degree 🎓. 
-
-Looking for my **first professional opportunity** as a developer
+IT Graduate and currently pursuing a Software Engineering degree 🎓.
 
 ### 💻 **Recent Project**
 
