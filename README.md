@@ -16,7 +16,7 @@ Full-stack application for organizing a game backlog, with authentication and in
 **[Access Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)**  
 Student access management solution for school entry/exit using QR Code badges. **Deployed and used in production** at CIE Miécimo da Silva (Rio de Janeiro).
 - 🏫 Expanded from cafeteria access to school-wide entry tracking
-- 🔧 Built with VBA, developed in a team of 4 where I was responsible for all technical implementation
+- 🔧 Built with VBA, developed in a team of 4 where I was responsible for all technical development
 
 **[HexTech](https://github.com/rafaelcaple/e-commerce-hextech)**  
 Final project for my technical high school degree, delivering a complete online shopping experience from product browsing to checkout.
