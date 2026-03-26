@@ -13,7 +13,7 @@ Full-stack application for organizing a game backlog, with authentication and in
 - 🎨 Frontend: React
 - 🔌 Integrated with IGDB and RAWG APIs for automatic game data retrieval
 
-**[Access Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)**  
+**[Access Control System via QR Code](https://github.com/rafaelcaple/controle-acesso-escolar-vba)**  
 Student access management solution for school entry/exit using QR Code badges. **Deployed and used in production** at CIE Miécimo da Silva (Rio de Janeiro).
 - 🏫 Expanded from cafeteria access to school-wide entry tracking
 - 🔧 Built with VBA, developed in a team of 4 where I was responsible for all technical development
