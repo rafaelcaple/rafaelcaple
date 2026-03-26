@@ -18,7 +18,7 @@ Student access management solution for school entry/exit using QR Code badges. *
 - 🏫 Expanded from cafeteria access to school-wide entry tracking
 - 🔧 Built with VBA, developed in a team of 4 where I was responsible for all technical development
 
-**[HexTech](https://github.com/rafaelcaple/e-commerce-hextech)**  
+**[HexTech E-commerce](https://github.com/rafaelcaple/e-commerce-hextech)**  
 Final project for my technical high school degree, delivering a complete online shopping experience from product browsing to checkout.
 - 🛒 Complete purchase flow: cart, checkout, orders linked to user accounts
 - 👤 User authentication with registration and login
