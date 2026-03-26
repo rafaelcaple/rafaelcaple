@@ -8,21 +8,21 @@ IT Graduate and currently pursuing a Software Engineering degree 🎓
 ### 🎯 Relevant Projects
 
 **[Game Backlog](https://github.com/rafaelcaple/game-backlog-backend)**  
-Full-stack platform to manage your game library — track what you're playing, completed, or want to play next.
+Full-stack application for organizing a game backlog, with authentication and integration with external APIs.
 - 🔧 Backend: Spring Boot, Spring Security, JWT, PostgreSQL, WebClient (Spring WebFlux)
 - 🎨 Frontend: React
 - 🔌 Integrated with IGDB and RAWG APIs for automatic game data retrieval
 
 **[Access Control System](https://github.com/rafaelcaple/controle-acesso-escolar-vba)**  
-Student access at school and cafeteria control system using QR Code badges.
+Student access management solution for school entry/exit using QR Code badges. **Deployed and used in production** at CIE Miécimo da Silva (Rio de Janeiro).
 - 🏫 Expanded from cafeteria access to school-wide entry tracking
 - 🔧 Built with VBA, developed in a team of 4 where I was responsible for all technical implementation
 
-**[HexTech - E-commerce](https://github.com/rafaelcaple/e-commerce-hextech)**  
-Full e-commerce platform built as the final project for my technical high school degree.
+**[HexTech](https://github.com/rafaelcaple/e-commerce-hextech)**  
+Final project for my technical high school degree, delivering a complete online shopping experience from product browsing to checkout.
 - 🛒 Complete purchase flow: cart, checkout, orders linked to user accounts
 - 👤 User authentication with registration and login
-- 🔧 Built with HTML, CSS, JavaScript, PHP and MySQL. Developed in a team of 6 where I was responsible for all technical development
+- 🔧 Built with HTML, CSS and JavaScript. Developed in a team of 6 where I was responsible for all technical development
 
 ## Connect with me 😄
 
